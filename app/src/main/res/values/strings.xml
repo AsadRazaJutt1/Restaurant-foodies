@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Restaurant</string>
+    <string name="restaurants">Restaurants</string>
+    <string name="slogan">We provide Food at user\'s Door step  </string>
+    <string name="open">open</string>
+    <string name="close">close</string>
+    <string name="title_activity_order_tracker">Map</string>
+
+
+</resources>
